@@ -1,0 +1,4 @@
+It is a clone of the Gant Plugin for Jenkins https://wiki.jenkins-ci.org/display/JENKINS/Gant+Plugin
+Since it's source code is located on the Subversions server https://svn.jenkins-ci.org/trunk/hudson/plugins/gant
+I decided to put it into the GitHub 
+It contains several chages to correspond my projec where I use this plugin
