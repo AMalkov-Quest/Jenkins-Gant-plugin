@@ -1,0 +1,4 @@
+<div>
+  This plugin allows Hudson to invoke <a href="http://groovy.codehaus.org/Gant">Gant</a>
+  build scripts directly.
+</div>
